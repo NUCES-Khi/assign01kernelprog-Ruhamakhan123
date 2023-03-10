@@ -49,4 +49,11 @@ kernel
 
 k
 
-221380329-c6d92756-a267-4c19-8704-2adcf30ea762
+![image](https://user-images.githubusercontent.com/105592893/224260383-3ae4fff7-31aa-46f1-bb94-4232a1d60df3.png)
+
+![image](https://user-images.githubusercontent.com/105592893/224260443-02d1d0c1-ab20-4e84-a789-a2a913e144e0.png)
+
+![image](https://user-images.githubusercontent.com/105592893/224260504-deaad87e-7892-4367-b139-3faff4a5a389.png)
+
+
+
